@@ -105,7 +105,7 @@ Stream custom service
 
 ## Features
 
-[Weather](https://youthful-sinoussi-491f0a.netlify.app/) was developed using different technologies such as:
+Streamy was developed using different technologies such as:
 
 - :bulb: **Create React App**: create-react-app is an official React CLI that allows you to create applications as quickly as possible, and with zero configurations.
 
