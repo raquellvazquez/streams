@@ -23,7 +23,7 @@ Streamy has a Sing in with Google, if you clone this project make sure to add a 
 
  <div align="center">
     <br>
-    <img src="" alt="slider" width="auto" height="auto" />
+    <img src="https://raw.githubusercontent.com/raquellvazquez/streams/master/src/assets/stream7.PNG" alt="slider" width="auto" height="auto" />
     <br>
 </div>
 
@@ -31,7 +31,7 @@ Streamy has a Sing in with Google, if you clone this project make sure to add a 
 
  <div align="center">
     <br>
-    <img src="" alt="slider" width="auto" height="auto" />
+    <img src="https://raw.githubusercontent.com/raquellvazquez/streams/master/src/assets/stream1.PNG" alt="slider" width="auto" height="auto" />
     <br>
 </div>
 
@@ -39,7 +39,7 @@ Streamy has a Sing in with Google, if you clone this project make sure to add a 
 
  <div align="center">
     <br>
-    <img src="" alt="slider" width="auto" height="auto" />
+    <img src="https://raw.githubusercontent.com/raquellvazquez/streams/master/src/assets/stream3.PNG" alt="slider" width="auto" height="auto" />
     <br>
 </div>
 
@@ -47,7 +47,7 @@ Streamy has a Sing in with Google, if you clone this project make sure to add a 
 
  <div align="center">
     <br>
-    <img src="" alt="slider" width="auto" height="auto" />
+    <img src="https://raw.githubusercontent.com/raquellvazquez/streams/master/src/assets/stream2.PNG" alt="slider" width="auto" height="auto" />
     <br>
 </div>
 
@@ -55,7 +55,15 @@ Streamy has a Sing in with Google, if you clone this project make sure to add a 
 
  <div align="center">
     <br>
-    <img src="" alt="slider" width="auto" height="auto" />
+    <img src="https://raw.githubusercontent.com/raquellvazquez/streams/master/src/assets/stream4.PNG" alt="slider" width="auto" height="auto" />
+    <br>
+</div>
+
+- Stream Video
+
+ <div align="center">
+    <br>
+    <img src="https://raw.githubusercontent.com/raquellvazquez/streams/master/src/assets/stream5.PNG" alt="slider" width="auto" height="auto" />
     <br>
 </div>
 
@@ -83,7 +91,7 @@ Yu can stream a video with OBS
 
 <div align="center">
     <br>
-    <img src="" alt="slider" width="auto" height="auto" />
+    <img src="https://raw.githubusercontent.com/raquellvazquez/streams/master/src/assets/stream6.PNG" alt="slider" width="auto" height="auto" />
     <br>
 </div>
 
@@ -91,7 +99,7 @@ Stream custom service
 
 <div align="center">
     <br>
-    <img src="" alt="slider" width="auto" height="auto" />
+    <img src="https://raw.githubusercontent.com/raquellvazquez/streams/master/src/assets/stream8.PNG" alt="slider" width="auto" height="auto" />
     <br>
 </div>
 
