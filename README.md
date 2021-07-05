@@ -74,13 +74,13 @@ The backend is running on a json server in the same way as the Node-Media-Server
 
 <div align="center">
     <br>
-    <img src="" alt="slider" width="auto" height="auto" />
+    <img src="https://raw.githubusercontent.com/raquellvazquez/streams/master/src/assets/stream10.PNG" alt="slider" width="auto" height="auto" />
     <br>
 </div>
 
 <div align="center">
     <br>
-    <img src="" alt="slider" width="auto" height="auto" />
+    <img src="https://raw.githubusercontent.com/raquellvazquez/streams/master/src/assets/stream9.PNG" alt="slider" width="auto" height="auto" />
     <br>
 </div>
 
