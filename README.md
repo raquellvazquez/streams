@@ -115,6 +115,10 @@ Streamy was developed using different technologies such as:
 
 - :iphone: **OBS**: Free and open source software for video recording and live streaming.
 
+- :dart: **Redux** : Redux is an open source JavaScript library for managing the state of applications.
+
+- :beginner: **Redux Thunk** : Thunk middleware for Redux.
+
 ## Important
 
 This project was developed in the course: [Modern React with Redux](https://www.udemy.com/course/react-redux/), created by: Stephen Grider.
